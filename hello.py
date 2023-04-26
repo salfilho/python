@@ -1,2 +1,1 @@
-print("Eu gosto de panetone!")
-print ("eu detesto tamarindo")
+print ("Eu amo brigadeiro")
